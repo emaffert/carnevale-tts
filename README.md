@@ -1,5 +1,7 @@
 # Carnevale TTS Module — Setup Guide
 
+This project was a personnal test, it's full of bad things, doesn't work, but won't be continued for now.
+
 ## Project Files
 
 ```
